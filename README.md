@@ -9,4 +9,6 @@ Website for the opentechschool chapter in zurich
   - js http://opentechschool.github.io/js-beginners-1/ (http://opentechschool.github.io/slides/presentations/coaching/)
   - python
   - RE: https://coderdojopotsdam.github.io/regex-tutorial/steps/
+  - project cards
+  - coding dojos
 - announce "special" events
