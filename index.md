@@ -1,9 +1,14 @@
----
-title: This is a test page
----
-# Test
+# OpenTechSchool Zurich
 
-This is a test.
+Each Tuesday, the OpenTechSchool Co-Learning group meets in the Liip Arena (and sometimes at other places...) We our first steps in programming or improve our coding skills.
+
+Currently we have three groups:
+
+- Python
+- C++ for beginners
+- C++ for intermediates
+
+Our main language is English, but we speak also German, Italian, French and Spanish!
 
 <div class="posts">
   {% for post in site.posts %}
