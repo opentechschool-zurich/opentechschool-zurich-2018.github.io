@@ -1,8 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Setting up Jekyll
 ---
 
-This is my first post.
+This is my first post. Not the last one...
 
-updated...
+Updated...
