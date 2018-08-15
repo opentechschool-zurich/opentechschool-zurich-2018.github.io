@@ -2,6 +2,10 @@
 
 Website for the opentechschool chapter in zurich
 
+## Notes
+
+- Jekyll setup inspired by [jekyll-now](https://github.com/barryclark/jekyll-now)
+
 ## goals
 
 - blog about each evening with a summary of the goals achieved
