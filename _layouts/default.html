@@ -2,8 +2,12 @@
 <html>
 <head>
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 </head>
 <body>
+	<header>
+        <a href="/" class="menu_ots_logo>OpenTechSchool</a>
+    </header>
 <div id="main" role="main" class="container">
   {{ content }}
 </div>
