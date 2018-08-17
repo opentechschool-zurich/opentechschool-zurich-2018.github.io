@@ -5,6 +5,7 @@ Website for the opentechschool chapter in zurich
 ## Notes
 
 - Jekyll setup inspired by [jekyll-now](https://github.com/barryclark/jekyll-now)
+- The `.scss` file must start with two lines with three dashes each.
 
 ## goals
 
