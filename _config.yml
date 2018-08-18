@@ -2,3 +2,4 @@ name: OpenTechSchool Zürich
 
 sass:
   style: :expanded # You might prefer to minify using :compressed
+  sass_dir: css
