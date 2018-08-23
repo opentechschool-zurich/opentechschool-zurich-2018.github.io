@@ -3,6 +3,32 @@
 
 @import 'fonts';
 
+@media screen and (min-width:800px) {
+  body {
+    display:grid;
+    max-width:1400px;
+    min-height:100vh;
+    grid-template-columns: 1fr 1fr 400px;
+    grid-template-rows: min-content 1fr;
+    grid-template-areas: "logo logo social"
+                         "main main aside";
+
+  }
+  div#logo {
+    grid-area:logo;
+  }
+  div#social {
+    grid-area:social;
+    text-align:right;
+  }
+  main {
+    grid-area:main;
+  }
+  aside {
+    grid-area:aside;
+  }
+}
+
 a.menu_ots_logo {
   font-size: 2em;
   margin: 0 3px 0 0.5em;
@@ -15,4 +41,12 @@ a.menu_ots_logo {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 300;
+}
+a.menu_ots_chapter {
+  font-size: 2em;
+  color: #085987;
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: normal;
 }
