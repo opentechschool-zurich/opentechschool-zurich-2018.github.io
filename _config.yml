@@ -1,4 +1,4 @@
-name: OpenTechSchool Zürich
+title: OpenTechSchool Zürich
 
 sass:
   style: :expanded # You might prefer to minify using :compressed
