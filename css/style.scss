@@ -27,6 +27,10 @@
   aside {
     grid-area:aside;
   }
+
+  main {
+    padding-left:15px;
+  }
 }
 
 a.menu_ots_logo {
@@ -49,4 +53,77 @@ a.menu_ots_chapter {
   font-family: "Montserrat";
   font-weight: 300;
   font-style: normal;
+}
+
+
+h1, h2 {
+  font-family: "Montserrat";
+  font-weight:bold;
+}
+
+div.event {
+  display:flex;
+  flex-direction:row;
+  margin-bottom:10px;
+  cursor:pointer;
+}
+
+div.event > .date
+{
+  display:flex;
+  flex-direction:column;
+  background-color:#f6f7f8;
+  border:1px solid rgba(46,62,72,.12);
+  border-radius:8px;
+  padding:8px;
+  min-width:36px;
+  min-height:36px;
+}
+div.event > .date > .day
+{
+  color: #085987;
+  font-family: "Montserrat";
+  font-size:16pt;
+  text-align:center;
+  font-weight:bold;
+}
+
+div.event > .date > .month
+{
+  color:rgb(102,112,122);
+  font-family: "Montserrat";
+  font-size:10pt;
+  text-align:center;
+  text-transform:uppercase;
+}
+
+div.event > .description
+{
+  padding:0px;
+  padding-left:10px;
+}
+
+div.event > .description::first-letter {
+  text-transform:uppercase;
+}
+
+div.event > .description > .date_time
+{ 
+  margin-top:0px;
+  margin-bottom:0px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-family: "Montserrat";
+  font-size:12pt;
+  line-height:1.6;
+  color:rgb(102,112,122);
+}
+
+div.event > .description > .title
+{
+  font-family: "Montserrat";
+  font-size:12pt;
+  margin-top:0px;
+  margin-bottom:0px;
 }
