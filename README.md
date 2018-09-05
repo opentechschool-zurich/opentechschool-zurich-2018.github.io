@@ -14,7 +14,8 @@ go to the directory with the github.io files and follow the [instructions from G
   ```
 - `bundle install --path vendor/bundle`
 - `bundle exec jekyll serve`
-- for the next executions you can simply do `./vendor/bundle/ruby/2.5.0/bin/jekyll serve` (of course eyou can create a link to jekyll in the current directory...)
+- for the next executions you can simply do `./vendor/bundle/ruby/2.5.0/bin/jekyll serve` (of course you can create a link to jekyll in the current directory...; this did not work for me...)
+
 
 ## Notes
 
