@@ -28,3 +28,9 @@ Francesco:
 
 Arthur:
 - Started writing a summary of the syntax of the Swift programming language
+
+Charles:
+- Had fun with Ansible, a great and elegant workframe for configuration management (written in Python; no, no, no, not by me! :-) )
+- Made a short Ansible demo on how to easily install SW and automatically reconfigure a VM with a pristine O/S installation.
+  Ansible can be used to setup/configure your laptop, servers in the cloud, and even networking gear from different vendors.
+  Have a look at it (www.ansible.com). You'll love it!
