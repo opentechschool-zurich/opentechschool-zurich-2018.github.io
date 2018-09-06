@@ -34,7 +34,7 @@ function getMonthShort(month) {
 }
 
 function getDayShort(day) {
-  var name = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'];
+  var name = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
   return name[day];
 }
 
