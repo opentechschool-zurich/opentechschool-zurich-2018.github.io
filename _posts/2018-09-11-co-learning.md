@@ -3,6 +3,8 @@ layout: post
 title: "Co-Learning: 11. September 2018"
 ---
 
+Last hot evening for this summer?
+
 ![Co-Learning on Stempber 4th](/assets/posts/2018-09-11.jpg)
 
 ale: [finished porting](https://github.com/aoloe/scribus-plugin-applyStyle/commit/d05409a3d2f7147ac01d28a4c9394331e9219bc1) my scribus applyStyle plugin to the new namespace based architecture and read about creating plugins for c++ application (the best solution seems to be to use the Qt based code)
