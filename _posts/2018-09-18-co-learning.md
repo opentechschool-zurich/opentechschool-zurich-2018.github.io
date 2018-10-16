@@ -3,7 +3,7 @@ layout: post
 title: "Co-Learning: 18. September 2018"
 ---
 
-Last hot evening for this summer?
+Short exercise for tonight: a vending machine.
 
 ![Co-Learning on Stempber 4th](/assets/posts/2018-09-18.jpg)
 
