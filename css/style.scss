@@ -133,3 +133,23 @@ div.event > .description > .title
 .entry img {
     max-width:100%;
 }
+
+img.book-cover {
+    max-height:100px;
+}
+
+img.circle {
+    overflow: hidden;
+    width: 89px;
+    border-radius: 45px;
+}
+
+ul.books {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.books li {
+    margin-bottom:1em;
+}
