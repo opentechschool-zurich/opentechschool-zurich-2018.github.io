@@ -82,7 +82,7 @@ You can directly dive into [PyGame](https://www.pygame.org/news), or first learn
 ### C++ and cmake
 
 {: #java}
-## Java for Android {: #java}
+## Java for Android
 
 {: .books}
 - ![](images/languages/ethz-java.png){: .book-cover}  
